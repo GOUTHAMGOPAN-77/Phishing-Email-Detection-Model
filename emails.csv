@@ -1,0 +1,9 @@
+text,label
+"Win a free iPhone now click here http://spam.com","phishing"
+"Urgent verify your bank account now","phishing"
+"Click link to reset password","phishing"
+"Your account suspended login now","phishing"
+"Meeting scheduled at 10 AM","safe"
+"Project deadline next week","safe"
+"Lunch meeting today","safe"
+"Invoice attached please review","safe"
